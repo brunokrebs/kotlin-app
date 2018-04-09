@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">KotlinApp</string>
+    <string name="app_name">Kotlin To Do App (Test Client)</string>
+    <!-- my account details -->
+    <string name="auth0_client_id">bjiNUmehywNHaL30UZCR2kISYs0SDFwA</string>
+    <string name="auth0_domain">kozbringa.eu.auth0.com</string>
 </resources>
