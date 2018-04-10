@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         binding?.loggedIn = false
 
         // getting a reference for the ListView
-        val listToDo = findViewById(R.id.list_todo) as ListView
+        val listToDo = findViewById<View>(R.id.list_todo) as ListView
 
         // passing the activity, the queue and the ListView to the function
         // that consumes the RESTful endpoint
